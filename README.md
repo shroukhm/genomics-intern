@@ -8,7 +8,7 @@ This two projects focuses on genomics analysis in the field of cancer research (
 **Data**
 
 The project 1 utilizes genomics data obtained from the normal and tumor groups for Prostate Adenocarcinoma. The data includes measurements of genes expression levels for multiple samples in each group.
-The project 2 utilizes genomics data obtained from the normal and tumor groups for breast cancer. The data includes measurements of genes expression levels for multiple samples in each group.
+The project 2 utilizes genomics data obtained from the normal and tumor groups for Breast Invasive Carcinoma. The data includes measurements of genes expression levels for multiple samples in each group.
 
 **Statistical Analysis**
 
